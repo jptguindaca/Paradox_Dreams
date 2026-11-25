@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: b98aa0b778913e34d81c5f2dfc9ecd09
+guid: 2018215b363311349a1f73a34824b188
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -686209056826401533
-    second: EXPRESSO600x300_0
+      213: -8910674425830367742
+    second: desenho1quadro_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,23 +100,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: EXPRESSO600x300_0
+      name: desenho1quadro_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 600
-        height: 300
+        width: 1158
+        height: 610
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 30dd43e9f781a76f0800000000000000
-      internalID: -686209056826401533
+      spriteID: 20e193b02dce65480800000000000000
+      internalID: -8910674425830367742
       vertices: []
       indices: 
       edges: []
@@ -125,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: a30ee206a1a92fa44987843270562173
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -133,11 +133,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries:
-      - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+      entries: []
     nameFileIdTable:
-      EXPRESSO600x300_0: -686209056826401533
+      desenho1quadro_0: -8910674425830367742
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
